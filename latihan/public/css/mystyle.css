@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+.para3{
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+ul.listitem{
+    list-style: none;
+    margin: 10px 15px 10px 15px;
+}
+li.list{
+    display: inline;
+     margin: 10px 15px 10px 15px;
+}
+a.linku{
+    text-decoration: none;
+}
+a.linku{
+    color: white;
+}
+footer{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+h1.para4{
+    margin-top: 150px;
+    margin-left: 20px;
+}
